@@ -1,2 +1,13 @@
+## bms3
+Package: bms3
+Title: Business Marketing Subscription Model Builder Dated: 5/29/2018
+Version: 0.0.0.9000
+Authors@R: person("Malini", "Chatterjee", email = "first.last@example.com", role = c("aut", "cre"))
+Description: A BMS Subscription Model generation.It calls different functions for model generation.Performance evaluation of the model and testing on sample test data.Plot ROC curves for all the different models to compare the performance and test some results,Models in consideration: Logistic Regression, Decision Tree, Random Forest.The outcome of the model is to predict the probability that a customer will subscribe to this new product.Sample Result set shows whom to call who has a higher probability to subscribe to the new product.
+Depends: R (>= 3.4.4)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
 # bms3
 Bank Subscription Model
